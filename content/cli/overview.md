@@ -12,6 +12,12 @@ Install the CLI globally using the `npm install -g` command (see the **Note** ab
 $ npm install -g @nestjs/cli
 ```
 
+Install the CLI globally using the `yarn global add` command.
+
+```bash
+$ yarn global add @nestjs/cli
+```
+
 #### Basic workflow
 
 Once installed, you can invoke CLI commands directly from your OS command line through the `nest` executable. See the available `nest` commands by entering the following:
